@@ -7,9 +7,9 @@
 ![Typeface sample](./Modegg-sample-light.png#gh-light-mode-only)
 ![Typeface sample](./Modegg-sample-dark.png#gh-dark-mode-only)
 
-Created by [@miXTim](https://twitter.com/juande4u/) - feel free to contact me on Twitter! 📫
-
 ### [miXTim Fonts](https://github.com/miXTim/fonts)
+
+Created by [@miXTim](https://twitter.com/juande4u/) - feel free to contact me on Twitter! 📫
 
 ## Copyright and license ![Github](https://img.shields.io/badge/license-SIL1.1-orange?logo=Github)
 Code copyright 2022 Juande Megias Roca.
