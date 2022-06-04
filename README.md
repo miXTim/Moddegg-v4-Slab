@@ -7,7 +7,6 @@
 ![Typeface sample](./Modegg-sample-light.png#gh-light-mode-only)
 ![Typeface sample](./Modegg-sample-dark.png#gh-dark-mode-only)
 
-## Contact
 Created by [@miXTim](https://twitter.com/juande4u/) - feel free to contact me on Twitter! 📫
 
 ### [miXTim Fonts](https://github.com/miXTim/fonts)
