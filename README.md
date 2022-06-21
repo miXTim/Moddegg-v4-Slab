@@ -4,8 +4,8 @@
 > 
 > Former parameters [_link_](https://en.m.fontke.com/font/12316704/).
 
-![Typeface sample](./Modegg-sample-light.png#gh-light-mode-only)
-![Typeface sample](./Modegg-sample-dark.png#gh-dark-mode-only)
+![Typeface sample](img/Modegg-sample-light.png#gh-light-mode-only)
+![Typeface sample](img/Modegg-sample-dark.png#gh-dark-mode-only)
 
 ### [miXTim Fonts](https://github.com/miXTim/fonts)
 
