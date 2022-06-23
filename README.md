@@ -24,23 +24,25 @@
 
 ```css
 /* Specify in CSS*/
-@font-face { font-family: 'miXTim-regular', sans-serif;
-    src: url('modegg_v4-slab.eot');
-    src: url('mixtim-regular.eot?#iefix') format('embedded-opentype'),
-         url('mixtim-regular.ttf') format('truetype'),
-         url('mixtim-regular.woff2') format('woff2'),
-         url('mixtim-regular.woff') format('woff'),
-         url('miXTim-Regular.svg#mixtimregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
+@font-face { font-family: 'modegg_v4_slab';
+  src: url('modegg-v4-slab.eot');
+  src: url('modegg-v4-slab.eot?#iefix') format('embedded-opentype'),
+       url('modegg-v4-slab.woff2') format('woff2'),
+       url('modegg-v4-slab.woff') format('woff'),
+       url('modegg-v4-slab.ttf') format('truetype'),
+       url('miXTim-Regular.svg#mixtimregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
 @supports (font-variation-settings: normal) {
-  body { font-family: 'miXTim-regular', sans-serif; }
+  body {
+    font-family: 'modegg_v4_slab', serif;
+  }
 }
 ```
 
-### [miXTim Fonts](https://github.com/miXTim/fonts)
+### Discover more [miXTim Fonts](https://github.com/miXTim/fonts)
 
 Created by [@miXTim](https://twitter.com/juande4u/) - feel free to contact me on Twitter! 📫
 
