@@ -30,7 +30,7 @@
        url('modegg-v4-slab.woff2') format('woff2'),
        url('modegg-v4-slab.woff') format('woff'),
        url('modegg-v4-slab.ttf') format('truetype'),
-       url('miXTim-Regular.svg#mixtimregular') format('svg');
+       url('Modegg-v4-Slab.svg#modeggv4slab') format('svg');
   font-weight: normal;
   font-style: normal;
 }
