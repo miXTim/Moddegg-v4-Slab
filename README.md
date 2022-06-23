@@ -19,6 +19,27 @@
 - [Convertio.co](https://convertio.co/)
 - [FontSquirrel](https://www.fontsquirrel.com/tools/webfont-generator)
 
+
+### Browser support
+
+```css
+/* Specify in CSS*/
+@font-face { font-family: 'miXTim-regular', sans-serif;
+    src: url('modegg_v4-slab.eot');
+    src: url('mixtim-regular.eot?#iefix') format('embedded-opentype'),
+         url('mixtim-regular.ttf') format('truetype'),
+         url('mixtim-regular.woff2') format('woff2'),
+         url('mixtim-regular.woff') format('woff'),
+         url('miXTim-Regular.svg#mixtimregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@supports (font-variation-settings: normal) {
+  body { font-family: 'miXTim-regular', sans-serif; }
+}
+```
+
 ### [miXTim Fonts](https://github.com/miXTim/fonts)
 
 Created by [@miXTim](https://twitter.com/juande4u/) - feel free to contact me on Twitter! 📫
