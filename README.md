@@ -8,7 +8,7 @@
 ![Typeface sample](img/Modegg-sample-dark.png#gh-dark-mode-only)
 
 ## What's included?
-- Files: Modegg_v4-Slab
+- Files: Modegg-v4-Slab
 - Format files: TTF, EOT, SVG, WOFF, WOFF2
 - 1 weight: Regular
 - Multiple Language supported
