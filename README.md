@@ -47,7 +47,6 @@
 Created by [@miXTim](https://twitter.com/juande4u/) - feel free to contact me on Twitter! 📫
 
 ## Copyright and license ![Github](https://img.shields.io/static/v1?label=license&message=SIL&nbsp;1.1&color=orange&logo=Github)
-Code copyright 2022 Juande Megias Roca, released under [the LGPL license](https://github.com/jgthms/bulma/blob/master/LICENSE).
 
 Fonts released under [SIL Open Font License 1.1](https://scripts.sil.org/OFL).
 
