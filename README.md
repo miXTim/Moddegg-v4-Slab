@@ -52,7 +52,7 @@ Code copyright 2022 Juande Megias Roca, released under [the LGPL license](https:
 Fonts released under [SIL Open Font License 1.1](https://scripts.sil.org/OFL).
 
 
-Thanks for viewing/downloading ;)
+Thanks for watching/downloading ;)
 
 <br>
 
